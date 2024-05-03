@@ -6,7 +6,7 @@ export default function Home() {
 <h1>hello world</h1>
 <div>
   <nav>
-<Link href='/home'> Login </Link>
+<Link href='/api/auth/login'> Login </Link>
 
   </nav>
 </div>
